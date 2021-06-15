@@ -65,6 +65,7 @@ body {
 }
 
 .arenas {
+    background: #00d600;
     width: 786px;
     height: 70vh;
     background-size: cover;
@@ -109,7 +110,6 @@ body {
     background-color: #cd0e03;
     display: flex;
 }
-
 .player1 .progressbar {
     left: 38px;
 }
